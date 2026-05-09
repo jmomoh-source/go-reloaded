@@ -1,7 +1,7 @@
 # Go Reloaded — Text Completion, Editing & Auto-Correction
 
 [![Go Version](https://img.shields.io/badge/go-1.22+-blue.svg)](https://golang.org/doc/)
-[![Build Status](https://github.com/jezreal/go-reloaded/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jezreal/go-reloaded/actions)
+[![Build Status](https://github.com/jezreal/go-reloaded/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jezreal/go-reloaded/actions/workflows/ci.yml)
 ![Repo Size](https://img.shields.io/github/repo-size/jezreal/go-reloaded)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
