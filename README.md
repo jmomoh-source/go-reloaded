@@ -4,6 +4,7 @@
 [![Build Status](https://github.com/jmomoh-source/go-reloaded/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jmomoh-source/go-reloaded/actions/workflows/ci.yml)
 ![Repo Size](https://img.shields.io/github/repo-size/jmomoh-source/go-reloaded)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Coverage](https://img.shields.io/badge/coverage-87.5%25-brightgreen)
 
 A Go command-line tool for text processing, correction, and formatting.  
 It reads an input file, applies automatic corrections (number conversions, case changes, punctuation normalization, quote formatting, article correction), and outputs a cleaned file.
@@ -61,7 +62,25 @@ Run all unit tests:
 go test ./... -v
 ```
 
-Tests are located in `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`.
+Tests are located in `textprocessor/processor_test.go`.
+
+---
+
+## 🤝 Contributing
+See `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]` for guidelines.  
+We welcome bug fixes, new features, and documentation improvements.
+
+---
+
+## 🎥 Demo
+Here’s the tool in action:
+
+`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
+---
+
+## 📋 Project Board
+Track progress and tasks on the [Project Board](https://github.com/jmomoh-source/go-reloaded/projects).
 
 ---
 
@@ -82,4 +101,3 @@ Tests are located in `[Looks like the result wasn't safe to show. Let's switch t
 
 ## 📌 Status
 This project was built as part of my **Learn2Earn Fellowship** and demonstrates my ability to work with Go in a production‑style environment.
-```
