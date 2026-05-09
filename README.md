@@ -1,8 +1,8 @@
 # Go Reloaded — Text Completion, Editing & Auto-Correction
 
 [![Go Version](https://img.shields.io/badge/go-1.22+-blue.svg)](https://golang.org/doc/)
-[![Build Status](https://github.com/jezreal/go-reloaded/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jezreal/go-reloaded/actions/workflows/ci.yml)
-![Repo Size](https://img.shields.io/github/repo-size/jezreal/go-reloaded)
+[![Build Status](https://github.com/jmomoh-source/go-reloaded/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jmomoh-source/go-reloaded/actions/workflows/ci.yml)
+![Repo Size](https://img.shields.io/github/repo-size/jmomoh-source/go-reloaded)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A Go command-line tool for text processing, correction, and formatting.  
