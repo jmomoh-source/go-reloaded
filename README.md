@@ -85,7 +85,7 @@ Here’s the tool in action:
 ---
 
 ## 📋 Project Board
-Track progress and tasks on the [Project Board](https://github.com/jmomoh-source/go-reloaded/projects).
+Track progress and tasks on the [Project Board](https://github.com/jmomoh-source/go-reloaded/projects)
 
 ---
 
