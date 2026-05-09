@@ -1,1 +1,5 @@
-Simply add 42 (hex) and 10 (bin) and you will see the result is 68.
+this is a Untold story... it start with 1010 (bin) and 2A (hex) values.  
+the hero said ' hello ' , but then shouted (up,3) wow wow wow!!!  
+a apple fell from tree, and it was a amazing sight.  
+later, she whispered (low) "CAN YOU HEAR ME?"...  
+finally, he wrote (cap,2) once upon a time in a land far away.

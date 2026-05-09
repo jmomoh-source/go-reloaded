@@ -29,18 +29,23 @@ It reads an input file, applies automatic corrections (number conversions, case 
 ## 📂 Project Structure
 ```
 go-reloaded/
-├── textprocessor/
-│   ├── processor.go
-│   └── processor_test.go
+├── .github/workflows/
+│   └── ci.yml
+├── docs/
+│   ├── Project_Management.md
+│   └── WALKTHROUGH.md
 ├── examples/
 │   ├── sample.txt
 │   └── result.txt
-├── docs/
-│   ├── WALKTHROUGH.md
-│   └── PROJECT_MANAGEMENT.md
+├── textprocessor/
+│   ├── processor.go
+│   └── processor_test.go
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
 ├── go.mod
-├── main.go
-└── README.md
+└── main.go
 ```
 
 ---
@@ -67,15 +72,15 @@ Tests are located in `textprocessor/processor_test.go`.
 ---
 
 ## 🤝 Contributing
-See `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]` for guidelines.  
-We welcome bug fixes, new features, and documentation improvements.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.  
+Please also review our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
 ## 🎥 Demo
 Here’s the tool in action:
 
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+![CLI Demo](examples/demo.png)
 
 ---
 
