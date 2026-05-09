@@ -24,3 +24,9 @@ jobs:
 
       - name: Run Tests
         run: go test ./... -v
+
+      - name: Run Tests with Coverage
+        run: go test ./... -coverprofile=coverage.out
+
+      - name: Show Coverage
+        run: go tool cover -func=coverage.out
